@@ -1,0 +1,5 @@
+dir /s /o > C:\GitHub\FileDataParser\c#_Project\FileDataParser\myFiles.txt
+
+
+dir /a:-d /s /b *.* > C:\GitHub\FileDataParser\c#_Project\FileDataParser\myFiles.txt
+
