@@ -1,7 +1,7 @@
 # FileDataParser
 
-This project is actually 2 complete projects. Both projects accomplish the exact same task.
-One project is written in c# and the other project is written in Python. 
+This project is actually part one of two complete projects. Both projects accomplish the exact same task.
+One project is written in c# and the other project is written in Python. The python version of this project is included in its own repo.
 
 The purpose of the 2 projects side by side is to compare time to code in each as well as performance of each completed project.
 
